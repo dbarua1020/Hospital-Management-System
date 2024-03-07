@@ -20,14 +20,12 @@ There are several attrivutes used to explain each attribute & there are also mul
 
 The primary keys are denoted by underlining the texts here.
 
-<br><br>
-
-Shapes & the meanings-
 <br>
-The rectangular boxes are used to denote entities.
-Ovals denote attributes.
-Diamonds denote relationships.
-The double oval drawn denotes multi-valued attribute.
+Shapes & the meanings-  <br>
+The rectangular boxes are used to denote entities. <br>
+Ovals denote attributes. <br>
+Diamonds denote relationships. <br>
+The double oval drawn denotes multi-valued attribute. <br><br>
 
 
 ![hospital-192](https://github.com/dbarua1020/Hospital-Management-System/assets/99043833/e90684da-de73-498c-a533-4cb455d5a836)
