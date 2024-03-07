@@ -4,7 +4,7 @@ This ER Diagram explains the hospital management system.
 The entities here are-
 
 
-i) 'Doctors' who treat the patients
+i) 'Doctors' who treat the patients <br>
 ii) 'Patients' who are diagnosed & treated by the doctors 
 iii) 'Room' having attributes Room Number & Floor Number with Room Number being the primaty key
 iv) 'Pharmacist' who sells prescribed drugs to the patients
