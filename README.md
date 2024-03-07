@@ -5,23 +5,25 @@ The entities here are-
 
 
 i) 'Doctors' who treat the patients <br>
-ii) 'Patients' who are diagnosed & treated by the doctors 
-iii) 'Room' having attributes Room Number & Floor Number with Room Number being the primaty key
-iv) 'Pharmacist' who sells prescribed drugs to the patients
-v) 'Cashier' who receives the payment of the medical bills paid by the patients
+ii) 'Patients' who are diagnosed & treated by the doctors  <br>
+iii) 'Room' having attributes Room Number & Floor Number with Room Number being the primaty key <br>
+iv) 'Pharmacist' who sells prescribed drugs to the patients <br>
+v) 'Cashier' who receives the payment of the medical bills paid by the patients <br>
 
-
+<br>
+<br>
 
 There are several attrivutes used to explain each attribute & there are also multiple relationships used here. One example of relationship being the one-to-many relationship used to denote the relationship between a doctor & multiple patients. 
 
-
+<br>
+<br>
 
 The primary keys are denoted by underlining the texts here.
 
-
+<br><br>
 
 Shapes & the meanings-
-
+<br>
 The rectangular boxes are used to denote entities.
 Ovals denote attributes.
 Diamonds denote relationships.
