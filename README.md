@@ -69,10 +69,18 @@ Deployment and Maintenance:
 Monitor the performance and security of the website.
 Regularly update the website with new features and improvements.
 
+Ai model-
+
+![image](https://github.com/dbarua1020/Hospital-Management-System/assets/99043833/884ef607-71f5-41d9-940d-1c75a7affc0c)
+
+![image](https://github.com/dbarua1020/Hospital-Management-System/assets/99043833/f066ef0d-661f-45de-b4f0-8cab46ad5157)
 
 
+Web Model- 
 
+![image](https://github.com/dbarua1020/Hospital-Management-System/assets/99043833/434c84c5-6339-4504-b6d2-aba3ff3162d4)
 
+![Uploading image.png…]()
 
 
 This ER Diagram explains the hospital management system. 
